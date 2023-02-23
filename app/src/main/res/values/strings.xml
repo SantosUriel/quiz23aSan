@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPrimerApp</string>
+    <string name="question_text">Mario se origino como personaje de videojuego en "Donkey kong" :</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="incorrect_toast">¡Incorrecto!</string>
+</resources>
